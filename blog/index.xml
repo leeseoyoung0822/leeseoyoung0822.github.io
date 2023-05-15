@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Sam Robbins</title>
+    <title>Blog on leeseoyoung0822</title>
     <link>https://leeseoyoung0822.github.io/blog/</link>
-    <description>Recent content in Blog on Sam Robbins</description>
+    <description>Recent content in Blog on leeseoyoung0822</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://leeseoyoung0822.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>나의 두번째 블로그</title>
+      <link>https://leeseoyoung0822.github.io/blog/second-blog/</link>
+      <pubDate>Mon, 15 May 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://leeseoyoung0822.github.io/blog/second-blog/</guid>
+      <description>분류 : 입력 → 함수 → 출력(강아지) ; 출력이 어떤 클래스에 속하는 걸 찾아낼 수 있는지
+→ 0 또는 1로 바꿔서 분류함.
+백터 만들어서 “더 핫 인코딩”
+ 정확도(accuracy) : 여러 입력값에 대한 예측치가 실제 label과 얼마나 맞는지(보통 10개 중 1개, 100개일 때 1 %) loss : 내가 학습시키기 위해 scalar를 정하고, 내가 원하는 예측값과 실제값의 차이  → loss 줄면 accuracy 증가할 확률 높음.
+인공 뉴런 : 사람 머릿 속 뉴런을 흉내내 나타낸 것.</description>
+    </item>
+    
     <item>
       <title>Making a new Website</title>
       <link>https://leeseoyoung0822.github.io/blog/first-blog/</link>
